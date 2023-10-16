@@ -1,0 +1,38 @@
+.m-2 {
+    margin: 8px;
+  }
+  
+  .p-4 {
+    padding: 16px;
+  }
+  
+  .bg-blue {
+    background-color: rgba(168, 202, 220, 0.581);
+    border-radius: 35px;
+    margin-top: 20px;
+  }
+  
+  .text-black {
+    color: rgb(23, 23, 23);
+    font-size: 25px;
+    padding: 10px;
+  }
+
+  .text-white {
+    color: rgb(249, 249, 249);
+  }
+  
+  .header {
+    background-color: rgb(48, 48, 48);
+    padding: 16px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .footer {
+    background-color: lightgray;
+    padding: 16px;
+    margin-top: 10vw;
+    text-align: center;
+    border-radius: 10px;
+  }
